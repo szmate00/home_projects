@@ -6,7 +6,7 @@
 
 
 
-## References
+## References :books:
 <a id="1">[1]</a> 
 Gatys et al. (2015). 
 A Neural Algorithm of Artistic Style.

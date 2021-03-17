@@ -1,7 +1,7 @@
 # Implementing the Neural Style Transfer algorithm :art: [[1]](#1)
 _Máté Szűcs, 2021_
 
-![Neaural Style Transfer](images/process.png =250x)
+![Neaural Style Transfer](images/process.png | width=100)
 
 
 

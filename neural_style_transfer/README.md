@@ -3,12 +3,16 @@ _Máté Szűcs, 2021_ <br>
 <p align="center">
   <img src="images/process.png" width="800" />
 </p>
+<p align="center">
+    <em>Figure 1: The method.</em>
+</p>
+
 
 <p align="center">
   <img src="images/nst.gif" width="400" />
 </p>
 <p align="center">
-    <em>1000 iterations</em>
+    <em>Figure 2: Neural Style Transfer with 1000 iterations.</em>
 </p>
 
 

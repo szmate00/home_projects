@@ -1,6 +1,6 @@
 # Implementing the Neural Style Transfer algorithm :art: [[1]](#1)
-_Máté Szűcs, 2021_
-<img src="images/process.png" width="200" />
+_Máté Szűcs, 2021_ <br>
+<img src="images/process.png" width="800" />
 
 
 

@@ -1,4 +1,4 @@
-# Implementing the Neural Style Transfer algorithm[[1]](#1)
+# Implementing the Neural Style Transfer algorithm :art: [[1]](#1)
 
 
 

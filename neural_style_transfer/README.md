@@ -4,6 +4,10 @@ _Máté Szűcs, 2021_ <br>
   <img src="images/process.png" width="800" />
 </p>
 
+<p align="center">
+  <img src="images/nst.gif" width="400" />
+</p>
+
 
 
 

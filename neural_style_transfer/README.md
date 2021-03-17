@@ -6,6 +6,7 @@ _Máté Szűcs, 2021_ <br>
 
 <p align="center">
   <img src="images/nst.gif" width="400" />
+  <em>1000 iterations</em>
 </p>
 
 

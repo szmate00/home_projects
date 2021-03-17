@@ -11,7 +11,7 @@
   <img src="images/nst.gif" width="400" />
 </p>
 <p align="center">
-    <em>Figure 2: Neural Style Transfer with 1000 iterations.</em>
+    <em>Animation 1: Neural Style Transfer with 1000 iterations.</em>
 </p>
 
 

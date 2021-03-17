@@ -11,5 +11,5 @@ _Máté Szűcs, 2021_ <br>
 ## References :books:
 <a id="1">[1]</a> 
 Gatys et al. (2015). 
-A Neural Algorithm of Artistic Style.
+_A Neural Algorithm of Artistic Style_
 [Link](https://arxiv.org/abs/1508.06576)
